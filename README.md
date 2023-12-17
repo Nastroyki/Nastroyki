@@ -1,16 +1,34 @@
-### Hi there 👋
+## Hi, I'm Maksym and I'm  Student of NTU KhPI
 
-<!--
-**Nastroyki/Nastroyki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### You can connect me with
+📫  makscherednychenko@gmail.com
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working on Ucode Connect projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌱 I’m currently learning Full-Stack Web Development
+  - HTML, CSS, JS
+  - Node.js + Express
+  - React
+  - MySQL
+    
+## My Tech. stack:
+<h3>Backend development</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite" />
+  </a>
+</p>
+
+<h3>Frontend development</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+  </a>
+</p>
+
+<h3>Additional knowledge</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,python,linux,arduino" />
+  </a>
+</p>
